@@ -1,0 +1,649 @@
+074F84F15A1651EE18ED274C3A241566.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+074F84F15A1651EE18ED274C3A241566.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+074F84F15A1651EE18ED274C3A241566.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+074F84F15A1651EE18ED274C3A241566.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+1753C635C3D1158ACAA797B045AE1EC6.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+5C42DAB36130387990AA723C78438663.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent iphone
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v7
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+68E612F5D2F42653F16938DFBBDFE1CB.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v7_1
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v1
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v5
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+6FB2F6DD0A7C0568423952A9F7ACACFE.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+8910EE60CDCB2AF83906EDA4A6368D87.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent gecko1_8
+
+9F7F875E56129D486AB760F83E9B6FD9.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode adjustResize
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent android
+
+9F7F875E56129D486AB760F83E9B6FD9.cache.js
+android.disableInputGhosting no
+android.minVersion v1
+android.windowSoftInputMode adjustResize
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent android
+
+9F7F875E56129D486AB760F83E9B6FD9.cache.js
+android.disableInputGhosting yes
+android.minVersion v4_0
+android.windowSoftInputMode adjustResize
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars yes
+user.agent android
+
+9F7F875E56129D486AB760F83E9B6FD9.cache.js
+android.disableInputGhosting no
+android.minVersion v4_1
+android.windowSoftInputMode adjustResize
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus yes
+isc.useFixedPositioningOnTabBars yes
+user.agent android
+
+B3F92A6D08B124736AE14B072B7E4E3B.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion NA
+isc.fixNavigationBarPositionDuringKeyboardFocus no
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent safari
+
+E23E4C3B8B61670863A6C87EB0A52750.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode no
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+E23E4C3B8B61670863A6C87EB0A52750.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView no
+iOS.isStandaloneMode yes
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+E23E4C3B8B61670863A6C87EB0A52750.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode no
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+E23E4C3B8B61670863A6C87EB0A52750.cache.js
+android.disableInputGhosting no
+android.minVersion NA
+android.windowSoftInputMode NA
+iOS.agentIsUIWebView yes
+iOS.isStandaloneMode yes
+iOS.minVersion v6
+isc.fixNavigationBarPositionDuringKeyboardFocus yes
+isc.hideTabBarDuringKeyboardFocus no
+isc.useFixedPositioningOnTabBars no
+user.agent ipad
+
+Devmode:devmode.js
